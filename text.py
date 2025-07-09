@@ -9,7 +9,6 @@ import base64
 from io import BytesIO
 import numpy as np
 from PIL import Image
-import qrcode
 import logging
 import os
 
