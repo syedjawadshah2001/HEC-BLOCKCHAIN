@@ -1,0 +1,468 @@
+2025-06-12 16:42:26,590 - DEBUG - No blockchain.json found, starting with empty chain
+2025-06-12 16:42:26,607 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:42:26,607 - DEBUG - Created block #1 with hash 6a017ab9dec7bd0416056d210fd19000dfbbdac3424711577b55ac6623ee8104
+2025-06-12 16:42:26,607 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:42:46,311 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:42:46,324 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:42:51,786 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:42:51,787 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:42:51,793 - DEBUG - Added degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb to pending transactions
+2025-06-12 16:42:51,793 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:42:51,793 - DEBUG - Created block #2 with hash 66613e18a997b35ee55a096801db2a426fdcb00bdfa2e84cde65170bece611f5
+2025-06-12 16:42:51,903 - DEBUG - Saved degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb to database
+2025-06-12 16:42:51,937 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:42:51,937 - DEBUG - STREAM b'IDAT' 41 1240
+2025-06-12 16:42:51,937 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:42:51,937 - DEBUG - STREAM b'IDAT' 41 1240
+2025-06-12 16:43:07,462 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:43:07,463 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:43:12,408 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:43:12,408 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:43:12,408 - DEBUG - Found degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb in database
+2025-06-12 16:43:12,408 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:43:12,408 - INFO - Verified degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb as Approved by HEC
+2025-06-12 16:43:12,506 - DEBUG - Updated degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb status to Approved in database
+2025-06-12 16:43:12,538 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:12,538 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-12 16:43:12,538 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:12,538 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-12 16:43:23,955 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:43:23,956 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:43:25,629 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:43:25,629 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:43:25,629 - DEBUG - Found degree 3ad859714788d20672841f59c760e1c0c884d424b21d28c2ad819bfd44838cfb in database
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:43:25,670 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-12 16:45:35,939 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:45:35,940 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:45:46,300 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:45:46,301 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:45:56,048 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:45:56,048 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:45:56,048 - DEBUG - Found degree 0179314b33843d7d714faeddbfc0c8d60bf07536acc29eb93feb86de155286f1 in database
+2025-06-12 16:45:56,048 - WARNING - Degree ID 0179314b33843d7d714faeddbfc0c8d60bf07536acc29eb93feb86de155286f1 not found in blockchain
+2025-06-12 16:46:18,001 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:46:18,002 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:46:38,342 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:46:38,343 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:46:38,349 - DEBUG - Added degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e to pending transactions
+2025-06-12 16:46:38,349 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:46:38,349 - DEBUG - Created block #3 with hash f7884c39caf7281d56cc258904cd5d6b11002888c03535315edd2083b1a9c833
+2025-06-12 16:46:38,458 - DEBUG - Saved degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e to database
+2025-06-12 16:46:38,489 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:46:38,489 - DEBUG - STREAM b'IDAT' 41 1276
+2025-06-12 16:46:38,489 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:46:38,489 - DEBUG - STREAM b'IDAT' 41 1276
+2025-06-12 16:47:04,789 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:04,791 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:06,454 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:06,455 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:08,884 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:08,885 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:08,891 - DEBUG - Found degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e in database
+2025-06-12 16:47:08,891 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:47:08,891 - INFO - Verified degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e as Approved by HEC
+2025-06-12 16:47:09,001 - DEBUG - Updated degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e status to Approved in database
+2025-06-12 16:47:09,034 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:09,034 - DEBUG - STREAM b'IDAT' 41 1436
+2025-06-12 16:47:09,034 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:09,034 - DEBUG - STREAM b'IDAT' 41 1436
+2025-06-12 16:47:22,775 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:22,775 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:22,792 - DEBUG - Found degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e in database
+2025-06-12 16:47:22,794 - DEBUG - Saved blockchain to blockchain.json
+2025-06-12 16:47:22,794 - INFO - Verified degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e as Rejected by HEC
+2025-06-12 16:47:22,891 - DEBUG - Updated degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e status to Rejected in database
+2025-06-12 16:47:22,908 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:22,908 - DEBUG - STREAM b'IDAT' 41 1402
+2025-06-12 16:47:22,908 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:22,908 - DEBUG - STREAM b'IDAT' 41 1402
+2025-06-12 16:47:37,529 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:37,529 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:39,131 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-12 16:47:39,132 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-12 16:47:39,137 - DEBUG - Found degree d0e5d4ef0096c049fd024714f597c5c1cc17c854994327d7131a2260738cec7e in database
+2025-06-12 16:47:39,182 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:39,182 - DEBUG - STREAM b'IDAT' 41 1402
+2025-06-12 16:47:39,183 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:39,183 - DEBUG - STREAM b'IDAT' 41 1402
+2025-06-12 16:47:39,184 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:39,184 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-12 16:47:39,184 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-12 16:47:39,184 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:39:54,644 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:39:54,660 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:40:30,861 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:40:30,862 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:41:11,311 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:41:11,312 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:41:11,332 - DEBUG - Added degree 0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 to pending transactions
+2025-06-13 23:41:11,334 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:41:11,335 - DEBUG - Created block #4 with hash 6d573a46e749a3619c7f26e43231d232a69fde2377c270a69c4146f69538e539
+2025-06-13 23:41:11,689 - DEBUG - Saved degree 0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 to database
+2025-06-13 23:41:11,819 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:41:11,819 - DEBUG - STREAM b'IDAT' 41 1162
+2025-06-13 23:41:11,820 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:41:11,820 - DEBUG - STREAM b'IDAT' 41 1162
+2025-06-13 23:41:38,813 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:41:38,815 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:41:48,583 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:41:48,584 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:41:48,592 - WARNING - Degree  0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 not found in database
+2025-06-13 23:41:48,593 - WARNING - Verification failed: Degree  0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 not in database
+2025-06-13 23:41:48,594 - WARNING - Degree ID  0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 not found in blockchain
+2025-06-13 23:42:09,160 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:09,161 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:10,759 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:10,760 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:10,767 - WARNING - Degree  0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 not found in database
+2025-06-13 23:42:15,721 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:15,721 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:15,728 - WARNING - Degree  0ea792503253372b427435e39ac861b3c10de3aa51b0d4df772a0994df1e2923 not found in database
+2025-06-13 23:42:21,633 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:21,634 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:24,623 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:24,624 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:43,752 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:43,753 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:44,310 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:44,311 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:44,318 - DEBUG - Added degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 to pending transactions
+2025-06-13 23:42:44,321 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:42:44,321 - DEBUG - Created block #5 with hash 2b599aa0951032b85aa1774db751141a06a747eec3be12786fd9344417ca9939
+2025-06-13 23:42:44,462 - DEBUG - Saved degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 to database
+2025-06-13 23:42:44,509 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:42:44,509 - DEBUG - STREAM b'IDAT' 41 1280
+2025-06-13 23:42:44,509 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:42:44,510 - DEBUG - STREAM b'IDAT' 41 1280
+2025-06-13 23:42:54,788 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:54,789 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:57,702 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:42:57,703 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:42:57,710 - DEBUG - Found degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 in database
+2025-06-13 23:42:57,712 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:42:57,712 - INFO - Verified degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 as Approved by HEC
+2025-06-13 23:42:57,829 - DEBUG - Updated degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 status to Approved in database
+2025-06-13 23:42:57,863 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:42:57,864 - DEBUG - STREAM b'IDAT' 41 1414
+2025-06-13 23:42:57,864 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:42:57,864 - DEBUG - STREAM b'IDAT' 41 1414
+2025-06-13 23:43:17,271 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:43:17,273 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:43:25,287 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:43:25,288 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:43:25,294 - DEBUG - Found degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 in database
+2025-06-13 23:43:25,359 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:43:25,359 - DEBUG - STREAM b'IDAT' 41 1414
+2025-06-13 23:43:25,359 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:43:25,359 - DEBUG - STREAM b'IDAT' 41 1414
+2025-06-13 23:43:25,378 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:43:25,379 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:43:25,379 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:43:25,379 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:43:51,727 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:43:51,728 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:05,447 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:05,447 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:05,451 - DEBUG - Found degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 in database
+2025-06-13 23:44:05,453 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:44:05,454 - INFO - Verified degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 as Rejected by HEC
+2025-06-13 23:44:05,578 - DEBUG - Updated degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 status to Rejected in database
+2025-06-13 23:44:05,617 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:05,617 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:44:05,617 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:05,617 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:44:14,862 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:14,864 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:15,960 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:15,961 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:15,965 - DEBUG - Found degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 in database
+2025-06-13 23:44:16,008 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:16,009 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:44:16,009 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:16,010 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:44:16,017 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:16,017 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:44:16,018 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:44:16,018 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:44:41,774 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:41,775 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:45,632 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:45,634 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:44:50,944 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:44:50,946 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:45:00,325 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:45:00,326 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:45:00,329 - DEBUG - Found degree c7c4f29ede10c5ea108b031f0a7a823142515d556adeb2572a125328031357d4 in database
+2025-06-13 23:45:00,379 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:45:00,380 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:45:00,380 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:45:00,380 - DEBUG - STREAM b'IDAT' 41 1396
+2025-06-13 23:45:00,387 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:45:00,387 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:45:00,387 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:45:00,387 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-13 23:45:45,225 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:45:45,227 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:46:41,270 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:46:41,271 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:46:41,277 - DEBUG - Added degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 to pending transactions
+2025-06-13 23:46:41,279 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:46:41,279 - DEBUG - Created block #6 with hash 530579d3db9af0be8119efc9ec8256c731c6d78efa0f319783a1c30c8d7ae88a
+2025-06-13 23:46:41,634 - DEBUG - Saved degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 to database
+2025-06-13 23:46:41,685 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:46:41,685 - DEBUG - STREAM b'IDAT' 41 1220
+2025-06-13 23:46:41,685 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:46:41,685 - DEBUG - STREAM b'IDAT' 41 1220
+2025-06-13 23:46:58,268 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:46:58,270 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:47:04,207 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:47:04,208 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:47:06,326 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:47:06,327 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:47:08,381 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:47:08,382 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:47:08,385 - DEBUG - Found degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 in database
+2025-06-13 23:47:08,387 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:47:08,387 - INFO - Verified degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 as Approved by HEC
+2025-06-13 23:47:08,511 - DEBUG - Updated degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 status to Approved in database
+2025-06-13 23:47:08,541 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:47:08,541 - DEBUG - STREAM b'IDAT' 41 1475
+2025-06-13 23:47:08,541 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:47:08,541 - DEBUG - STREAM b'IDAT' 41 1475
+2025-06-13 23:47:26,221 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-13 23:47:26,223 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-13 23:47:26,228 - DEBUG - Found degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 in database
+2025-06-13 23:47:26,230 - DEBUG - Saved blockchain to blockchain.json
+2025-06-13 23:47:26,231 - INFO - Verified degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 as Rejected by HEC
+2025-06-13 23:47:26,357 - DEBUG - Updated degree ea1d868ef3b73feb1369d07db43101022e068fb5d87f9a4def89e6f8a9a5b8e0 status to Rejected in database
+2025-06-13 23:47:26,398 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:47:26,398 - DEBUG - STREAM b'IDAT' 41 1440
+2025-06-13 23:47:26,398 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-13 23:47:26,398 - DEBUG - STREAM b'IDAT' 41 1440
+2025-06-15 16:38:38,738 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:38:39,026 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:02,840 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:02,840 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:02,848 - DEBUG - Added degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 to pending transactions
+2025-06-15 16:39:02,856 - DEBUG - Saved blockchain to blockchain.json
+2025-06-15 16:39:02,856 - DEBUG - Created block #7 with hash 11edb169f47573b2d6351ee8dc4b4f02402cb307bbb778463d1f43712e2bbe3e
+2025-06-15 16:39:03,224 - DEBUG - Saved degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 to database
+2025-06-15 16:39:03,328 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:03,328 - DEBUG - STREAM b'IDAT' 41 1236
+2025-06-15 16:39:03,328 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:03,328 - DEBUG - STREAM b'IDAT' 41 1236
+2025-06-15 16:39:06,748 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:06,748 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:27,066 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:27,066 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:27,074 - DEBUG - Added degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 to pending transactions
+2025-06-15 16:39:27,074 - DEBUG - Saved blockchain to blockchain.json
+2025-06-15 16:39:27,082 - DEBUG - Created block #8 with hash 89c94db2e26c99ab01223c931c35f9514aeb130a584dfb2cf606c0e4b1e7262b
+2025-06-15 16:39:27,203 - DEBUG - Saved degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 to database
+2025-06-15 16:39:27,235 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:27,235 - DEBUG - STREAM b'IDAT' 41 1236
+2025-06-15 16:39:27,235 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:27,235 - DEBUG - STREAM b'IDAT' 41 1236
+2025-06-15 16:39:34,970 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:34,978 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:38,004 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:38,004 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:38,004 - WARNING - Degree  b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 not found in database
+2025-06-15 16:39:38,004 - WARNING - Verification failed: Degree  b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 not in database
+2025-06-15 16:39:38,004 - WARNING - Degree ID  b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 not found in blockchain
+2025-06-15 16:39:59,069 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:39:59,069 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:39:59,077 - DEBUG - Found degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 in database
+2025-06-15 16:39:59,077 - DEBUG - Saved blockchain to blockchain.json
+2025-06-15 16:39:59,077 - INFO - Verified degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 as Approved by HEC
+2025-06-15 16:39:59,189 - DEBUG - Updated degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 status to Approved in database
+2025-06-15 16:39:59,261 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:59,261 - DEBUG - STREAM b'IDAT' 41 1384
+2025-06-15 16:39:59,261 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:39:59,261 - DEBUG - STREAM b'IDAT' 41 1384
+2025-06-15 16:40:13,034 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:40:13,042 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:40:15,255 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:40:15,255 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:40:15,263 - DEBUG - Found degree b245c99985ff94094b1b4ad4099ceaa7e648080c3ef75b88eec9348c709122a9 in database
+2025-06-15 16:40:15,303 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:40:15,303 - DEBUG - STREAM b'IDAT' 41 1384
+2025-06-15 16:40:15,303 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:40:15,303 - DEBUG - STREAM b'IDAT' 41 1384
+2025-06-15 16:40:15,311 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:40:15,311 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-15 16:40:15,311 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-15 16:40:15,311 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-15 16:42:48,143 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:42:48,143 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-15 16:42:50,849 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-15 16:42:50,849 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:48:26,963 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:48:27,023 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:48:56,185 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:48:56,185 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:48:56,201 - DEBUG - Added degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 to pending transactions
+2025-06-16 16:48:56,201 - DEBUG - Saved blockchain to blockchain.json
+2025-06-16 16:48:56,201 - DEBUG - Created block #9 with hash 0fe69705981a33b6b9145b0215c047bdd325ce3277ff1fcf6f65c6fda6cf4733
+2025-06-16 16:48:56,319 - DEBUG - Saved degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 to database
+2025-06-16 16:48:56,452 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:48:56,452 - DEBUG - STREAM b'IDAT' 41 1237
+2025-06-16 16:48:56,452 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:48:56,452 - DEBUG - STREAM b'IDAT' 41 1237
+2025-06-16 16:49:30,116 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:49:30,125 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:50:01,644 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:50:01,646 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:50:26,739 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:50:26,739 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:50:26,739 - DEBUG - Found degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 in database
+2025-06-16 16:50:26,739 - DEBUG - Saved blockchain to blockchain.json
+2025-06-16 16:50:26,739 - INFO - Verified degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 as Rejected by HEC
+2025-06-16 16:50:27,087 - DEBUG - Updated degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 status to Rejected in database
+2025-06-16 16:50:27,180 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:50:27,180 - DEBUG - STREAM b'IDAT' 41 1419
+2025-06-16 16:50:27,180 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:50:27,180 - DEBUG - STREAM b'IDAT' 41 1419
+2025-06-16 16:51:07,076 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:51:07,076 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:51:10,236 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-16 16:51:10,236 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-16 16:51:10,245 - DEBUG - Found degree 3c6657a12c03d5865daf21c279e9c11814a3231120c0a44cdf724e1029a46835 in database
+2025-06-16 16:51:10,297 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:51:10,297 - DEBUG - STREAM b'IDAT' 41 1419
+2025-06-16 16:51:10,297 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:51:10,297 - DEBUG - STREAM b'IDAT' 41 1419
+2025-06-16 16:51:10,322 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:51:10,322 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-16 16:51:10,322 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-16 16:51:10,322 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-17 13:52:01,258 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:52:01,342 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:52:07,795 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:52:07,804 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:52:22,968 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:52:22,968 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:52:22,984 - DEBUG - Added degree 5006b00d6ae47ba2537f6d83e1038d9862df48c4f5a4c001152621d0043608a4 to pending transactions
+2025-06-17 13:52:24,761 - DEBUG - Saved blockchain to blockchain.json
+2025-06-17 13:52:24,761 - DEBUG - Proof-of-work successful for block #10 with nonce 39474
+2025-06-17 13:52:24,761 - DEBUG - Created block #10 with hash 000000890f769d31338d749c37a4941baf4a58cb7a359da5a4d5f97d7b923e16
+2025-06-17 13:52:24,910 - DEBUG - Saved degree 5006b00d6ae47ba2537f6d83e1038d9862df48c4f5a4c001152621d0043608a4 to database
+2025-06-17 13:52:25,110 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:52:25,110 - DEBUG - STREAM b'IDAT' 41 1255
+2025-06-17 13:52:25,110 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:52:25,110 - DEBUG - STREAM b'IDAT' 41 1255
+2025-06-17 13:52:29,063 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:52:29,063 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:52:32,577 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:52:32,577 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:52:32,594 - ERROR - Invalid hash at block 1
+2025-06-17 13:53:45,384 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:53:45,384 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:09,402 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:09,402 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:16,153 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:16,153 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:16,163 - DEBUG - Added degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 to pending transactions
+2025-06-17 13:54:16,165 - DEBUG - Saved blockchain to blockchain.json
+2025-06-17 13:54:16,165 - DEBUG - Created block #11 with hash 71ea1579fc40d61f2c5bf784fb3de175f1372b9b9c6458c0f81300e121346dde
+2025-06-17 13:54:16,514 - DEBUG - Saved degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 to database
+2025-06-17 13:54:16,561 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:16,561 - DEBUG - STREAM b'IDAT' 41 1258
+2025-06-17 13:54:16,561 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:16,561 - DEBUG - STREAM b'IDAT' 41 1258
+2025-06-17 13:54:27,376 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:27,384 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:31,341 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:31,341 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:31,349 - DEBUG - Found degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 in database
+2025-06-17 13:54:31,349 - DEBUG - Saved blockchain to blockchain.json
+2025-06-17 13:54:31,349 - INFO - Verified degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 as Approved by HEC
+2025-06-17 13:54:31,474 - DEBUG - Updated degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 status to Approved in database
+2025-06-17 13:54:31,507 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:31,507 - DEBUG - STREAM b'IDAT' 41 1431
+2025-06-17 13:54:31,507 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:31,507 - DEBUG - STREAM b'IDAT' 41 1431
+2025-06-17 13:54:42,154 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:42,167 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:44,182 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 13:54:44,182 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 13:54:44,182 - DEBUG - Found degree d290e0d8118373bf8a96dce2c7e98c4e693440ace1048f130e91dba7ef69a506 in database
+2025-06-17 13:54:44,240 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:44,240 - DEBUG - STREAM b'IDAT' 41 1431
+2025-06-17 13:54:44,240 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:44,240 - DEBUG - STREAM b'IDAT' 41 1431
+2025-06-17 13:54:44,249 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:44,249 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-17 13:54:44,249 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-17 13:54:44,249 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-17 15:40:43,615 - ERROR - Failed to deploy contract: solc 0.8.0 has not been installed. Use solcx.install_solc('0.8.0') to install.
+2025-06-17 15:40:43,615 - ERROR - Failed to deploy contract: solc 0.8.0 has not been installed. Use solcx.install_solc('0.8.0') to install.
+2025-06-17 15:40:43,615 - ERROR - Failed to deploy contract: solc 0.8.0 has not been installed. Use solcx.install_solc('0.8.0') to install.
+2025-06-17 15:40:43,615 - ERROR - Failed to deploy contract: solc 0.8.0 has not been installed. Use solcx.install_solc('0.8.0') to install.
+2025-06-17 15:40:43,615 - DEBUG - Making request HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion
+2025-06-17 15:40:43,615 - DEBUG - Session cached: http://127.0.0.1:7545, <requests.sessions.Session object at 0x000001846519C410>
+2025-06-17 15:40:43,630 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7545
+2025-06-17 15:40:43,637 - DEBUG - http://127.0.0.1:7545 "POST / HTTP/11" 200 88
+2025-06-17 15:40:43,637 - DEBUG - Getting response HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'Ganache/v7.7.3/EthereumJS TestRPC/v7.7.3/ethereum-js'}
+2025-06-17 15:40:43,639 - ERROR - Failed to initialize blockchain: Could not format invalid value None as field 'abi'
+2025-06-17 15:40:43,640 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 15:42:01,992 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 15:42:01,994 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 15:42:06,713 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-17 15:42:06,713 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-17 15:55:43,952 - DEBUG - Making request HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion
+2025-06-17 15:55:43,952 - DEBUG - Session cached: http://127.0.0.1:7545, <requests.sessions.Session object at 0x000002205EB0DB80>
+2025-06-17 15:55:43,952 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7545
+2025-06-17 15:55:43,968 - DEBUG - http://127.0.0.1:7545 "POST / HTTP/11" 200 88
+2025-06-17 15:55:43,968 - DEBUG - Getting response HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'Ganache/v7.7.3/EthereumJS TestRPC/v7.7.3/ethereum-js'}
+2025-06-17 15:57:56,446 - DEBUG - Making request HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion
+2025-06-17 15:57:56,446 - DEBUG - Session cached: http://127.0.0.1:7545, <requests.sessions.Session object at 0x000002BCB002D8B0>
+2025-06-17 15:57:56,446 - DEBUG - Starting new HTTP connection (1): 127.0.0.1:7545
+2025-06-17 15:57:56,446 - DEBUG - http://127.0.0.1:7545 "POST / HTTP/11" 200 88
+2025-06-17 15:57:56,446 - DEBUG - Getting response HTTP. URI: http://127.0.0.1:7545, Method: web3_clientVersion, Response: {'id': 0, 'jsonrpc': '2.0', 'result': 'Ganache/v7.7.3/EthereumJS TestRPC/v7.7.3/ethereum-js'}
+2025-06-18 14:51:28,725 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 14:51:28,879 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:07:17,342 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:07:17,342 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:39:14,607 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:39:14,607 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:39:14,623 - DEBUG - Added degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 to pending transactions
+2025-06-18 15:39:14,623 - DEBUG - Saved blockchain to blockchain.json
+2025-06-18 15:39:14,623 - DEBUG - Created block #12 with hash 52f1a3d8e249941f68c1949ccc4c3f5721b49e9d78bc57314529a37358e4406f
+2025-06-18 15:39:16,896 - DEBUG - Saved degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 to database
+2025-06-18 15:39:17,017 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:39:17,017 - DEBUG - STREAM b'IDAT' 41 1206
+2025-06-18 15:39:17,017 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:39:17,017 - DEBUG - STREAM b'IDAT' 41 1206
+2025-06-18 15:39:59,084 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:39:59,084 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:40:15,531 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:40:15,531 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:40:15,539 - DEBUG - Found degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 in database
+2025-06-18 15:40:15,539 - DEBUG - Saved blockchain to blockchain.json
+2025-06-18 15:40:15,539 - INFO - Verified degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 as Rejected by HEC
+2025-06-18 15:40:15,667 - DEBUG - Updated degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 status to Rejected in database
+2025-06-18 15:40:15,706 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:15,706 - DEBUG - STREAM b'IDAT' 41 1362
+2025-06-18 15:40:15,706 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:15,706 - DEBUG - STREAM b'IDAT' 41 1362
+2025-06-18 15:40:38,845 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:40:38,845 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:40:43,672 - DEBUG - Loaded blockchain from blockchain.json
+2025-06-18 15:40:43,672 - DEBUG - Initialized SQLite database: degrees.db
+2025-06-18 15:40:43,680 - DEBUG - Found degree 54079ee191b663fca35fec3bd595453b2c08e38ae5321c61160b0421b1963ef7 in database
+2025-06-18 15:40:43,728 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:43,728 - DEBUG - STREAM b'IDAT' 41 1362
+2025-06-18 15:40:43,728 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:43,728 - DEBUG - STREAM b'IDAT' 41 1362
+2025-06-18 15:40:43,736 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:43,736 - DEBUG - STREAM b'IDAT' 41 1290
+2025-06-18 15:40:43,736 - DEBUG - STREAM b'IHDR' 16 13
+2025-06-18 15:40:43,736 - DEBUG - STREAM b'IDAT' 41 1290
